@@ -4,5 +4,18 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="src/mybatis-3.4.4.jar" sourcepath="E:/java-jar/mybatis-3-mybatis-3.4.4"/>
 	<classpathentry kind="lib" path="src/mysql-connector-java-5.1.41-bin.jar"/>
+	<classpathentry kind="lib" path="src/ant-1.9.6.jar"/>
+	<classpathentry kind="lib" path="src/ant-launcher-1.9.6.jar"/>
+	<classpathentry kind="lib" path="src/asm-5.2.jar"/>
+	<classpathentry kind="lib" path="src/cglib-3.2.5.jar"/>
+	<classpathentry kind="lib" path="src/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="src/javassist-3.21.0-GA.jar"/>
+	<classpathentry kind="lib" path="src/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="src/log4j-api-2.3.jar"/>
+	<classpathentry kind="lib" path="src/log4j-core-2.3.jar"/>
+	<classpathentry kind="lib" path="src/mybatis-config.xml"/>
+	<classpathentry kind="lib" path="src/ognl-3.1.14.jar"/>
+	<classpathentry kind="lib" path="src/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="src/slf4j-log4j12-1.7.25.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
