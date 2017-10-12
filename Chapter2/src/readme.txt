@@ -5,3 +5,4 @@ RoleMapper.xml			映射器配置文件
 Role.java				POJO类，符合javaBean的规范
 SqlSessionFactoryUtil.java	构建SqlSessionFactory,并创建SqlSession
 mybaits-config.xml		Mybais的配置文件
+
